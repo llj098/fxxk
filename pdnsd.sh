@@ -1,0 +1,1 @@
+ pdnsd  -c pdns.conf

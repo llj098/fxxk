@@ -1,0 +1,3 @@
+- [ ] reconnect not stable
+- [ ] supervisor
+- [ ] iptables save/restore
